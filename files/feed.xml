@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>News</title><link>https://press.ozcorp.io/index.html</link><description>PRESS</description><dc:language>en</dc:language><language>en</language><dc:creator>OZCORP SCIENTIFIC</dc:creator><dc:rights>&#xa9; 2023 OZCORP SCIENTIFIC LLC</dc:rights><dc:date>2023-12-08T07:07:00-04:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Sat, 9 Dec 2023 00:53:37 -0400</lastBuildDate><item><title>Ozcorp Scientific Completes Registration in Puerto Rico to Invest in the Region&#x27;s Biotech Economy and Catalyze Innovative Ventures </title><dc:creator>OZCORP SCIENTIFIC</dc:creator><category>Press</category><dc:date>2023-12-08T07:07:00-04:00</dc:date><link>https://press.ozcorp.io/files/ozcorp-scientific-completes-registration-puerto-rico-invest-biotech-catalyze-ventures%20.html#unique-entry-id-4</link><guid isPermaLink="true">https://press.ozcorp.io/files/ozcorp-scientific-completes-registration-puerto-rico-invest-biotech-catalyze-ventures%20.html#unique-entry-id-4</guid><content:encoded><![CDATA[ Ozcorp Scientific, a biotech venture studio, has announced the successful completion of its registration process in Puerto Rico, marking a significant milestone in the company's strategic roadmap and commitment to fostering the island's burgeoning biotech sector.]]></content:encoded></item><item><title>Ozcorp Scientific Debuts Comprehensive Suite of Executive Services to Empower Early-Stage Biotech Businesses</title><dc:creator>OZCORP SCIENTIFIC</dc:creator><category>Press</category><dc:date>2023-11-16T16:20:00-04:00</dc:date><link>https://press.ozcorp.io/files/ozcorp-scientific-debuts-executive-services.html#unique-entry-id-2</link><guid isPermaLink="true">https://press.ozcorp.io/files/ozcorp-scientific-debuts-executive-services.html#unique-entry-id-2</guid><content:encoded><![CDATA[Ozcorp Scientific, a new force in the realm of scientific innovation, proudly announces the launch of its suite of Executive Services aimed at catalyzing growth and success within the biotech sector. With an unwavering commitment to fostering groundbreaking initiatives and driving transformative change, Ozcorp Scientific's suite of services is poised to redefine the landscape of biotech business strategies.]]></content:encoded></item></channel>
+</rss>
