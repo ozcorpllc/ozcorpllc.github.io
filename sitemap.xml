@@ -4,6 +4,9 @@
 		<loc>https://press.ozcorp.io/index.html</loc>
 	</url>
 	<url>
+		<loc>https://press.ozcorp.io/files/genos-participate-bioleap-accelerator-puerto-rico.html</loc>
+	</url>
+	<url>
 		<loc>https://press.ozcorp.io/files/ozcorp-unveils-genos-bioinformatics-from-stealth.html</loc>
 	</url>
 	<url>
@@ -23,8 +26,5 @@
 	</url>
 	<url>
 		<loc>https://press.ozcorp.io/files/category-press.html</loc>
-	</url>
-	<url>
-		<loc>https://press.ozcorp.io/files/category-press-2013-genos.html</loc>
 	</url>
 </urlset>
